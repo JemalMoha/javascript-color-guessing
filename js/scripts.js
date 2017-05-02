@@ -57,3 +57,5 @@ function checkGuess() {
         return true;
     }
 }
+
+doGame();
